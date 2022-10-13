@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gudrat
-- 👀 I’m interested in JS, C++, Java
-- I want to be a Frontend Developer
+- 👀 I’m interested in C++, Java, C#
+- I want to be a Software Engineer
 - 🌱 I’m currently student at WSB University
 - 💞️ I’m looking to forward being a Junior Developer
 - 📫 How to reach me - gudratmaharram@gmail.com
