@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gudrat
 - 👀 I’m interested in C++, C#, DotNet
 - 🌱 I’m currently student at WSB University
-- 💞️ I’m looking forward to being a Junior Developer
 - 📫 How to reach me - gudratmaharram@gmail.com
 
 <!---
