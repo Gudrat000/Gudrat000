@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gudrat
-- 👀 I’m interested in C++, C#, DotNet
+- 👀 I’m interested in ASP.NET/C#/.Net
 - 🌱 I’m currently student at WSB University
 - 📫 How to reach me - gudratmaharram@gmail.com
 
