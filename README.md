@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gudrat
-- 👀 I’m interested in ASP.NET/C#/.Net
-- 🌱 I’m currently student at WSB University
+- 👀 I’m interested Consulting and helping organizations to bring their Customer Satisfaction to the next level
 - 📫 How to reach me - gudratmaharram@gmail.com
 
 <!---
